@@ -6,4 +6,6 @@ Instale usando "git clone https://github.com/rapha18f/bingo.git "
 
 Execute main.py
 
+Recomendações, sugestões e apoios são muito bem-vindos!
+
 divirta-se!
