@@ -6,6 +6,11 @@ Instale usando "git clone https://github.com/rapha18f/bingo.git "
 
 Execute main.py
 
+## Regras  
+- Vitória: Quem atingir **24 pontos primeiro** ou tiver **maior pontuação** ao fim.  
+- Erros: Não ganah ponto se marcar número errado.  
+- Dicas: Revela se o número é **par** e sua **faixa (ex: 21-40)**.  
+
 Recomendações, sugestões e apoios são muito bem-vindos!
 
 divirta-se!
